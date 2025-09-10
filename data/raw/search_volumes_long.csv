@@ -1,0 +1,50 @@
+# Created on 2025-01-27: Long-format CSV for monthly search volumes of investment terms
+date,search_term,search_volume
+2023-07-01,greek stocks,390
+2023-08-01,greek stocks,320
+2023-09-01,greek stocks,390
+2023-10-01,greek stocks,260
+2023-11-01,greek stocks,260
+2023-12-01,greek stocks,480
+2024-01-01,greek stocks,390
+2024-02-01,greek stocks,390
+2024-03-01,greek stocks,320
+2024-04-01,greek stocks,320
+2024-05-01,greek stocks,260
+2024-06-01,greek stocks,260
+2024-07-01,greek stocks,320
+2024-08-01,greek stocks,320
+2024-09-01,greek stocks,260
+2024-10-01,greek stocks,480
+2024-11-01,greek stocks,1600
+2024-12-01,greek stocks,2400
+2025-01-01,greek stocks,2400
+2025-02-01,greek stocks,1900
+2025-03-01,greek stocks,1600
+2025-04-01,greek stocks,1300
+2025-05-01,greek stocks,1600
+2025-06-01,greek stocks,1600
+2023-07-01,investment opportunities in greece,30
+2023-08-01,investment opportunities in greece,70
+2023-09-01,investment opportunities in greece,70
+2023-10-01,investment opportunities in greece,50
+2023-11-01,investment opportunities in greece,40
+2023-12-01,investment opportunities in greece,40
+2024-01-01,investment opportunities in greece,70
+2024-02-01,investment opportunities in greece,140
+2024-03-01,investment opportunities in greece,70
+2024-04-01,investment opportunities in greece,110
+2024-05-01,investment opportunities in greece,40
+2024-06-01,investment opportunities in greece,30
+2024-07-01,investment opportunities in greece,50
+2024-08-01,investment opportunities in greece,20
+2024-09-01,investment opportunities in greece,140
+2024-10-01,investment opportunities in greece,110
+2024-11-01,investment opportunities in greece,70
+2024-12-01,investment opportunities in greece,320
+2025-01-01,investment opportunities in greece,20
+2025-02-01,investment opportunities in greece,30
+2025-03-01,investment opportunities in greece,30
+2025-04-01,investment opportunities in greece,30
+2025-05-01,investment opportunities in greece,40
+2025-06-01,investment opportunities in greece,20
