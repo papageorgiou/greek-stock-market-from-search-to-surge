@@ -31,7 +31,7 @@ search_plot <- ggplot(gr_search_data_f, aes(x = date, y = search_volume)) +
   labs(
     x = NULL,
     y = "Monthly Search Volume - Global",
-    caption = "\nData sources: Google Search Data accessed via Keyword Planner, Investing.com \n Data & analysis: github.com/papageorgiou/invest-greece | @alex_papageo"
+    caption = "\nData sources: Google Search Data accessed via Keyword Planner, Investing.com \n github.com/papageorgiou/greek-stock-market-from-search-to-surge | @alex_papageo"
   ) +
   geom_rect(
     data = data.frame(
